@@ -1,0 +1,34 @@
+12-13 16:58:14 [INFO][support.ClassPathXmlApplicationContext(510)] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32d2fa64: startup date [Thu Dec 13 16:58:14 CST 2018]; root of context hierarchy
+12-13 16:58:14 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [applicationContext.xml]
+12-13 16:58:14 [INFO][config.PropertyPlaceholderConfigurer(172)] Loading properties file from class path resource [jdbc.properties]
+12-13 16:58:15 [INFO][pool.DruidDataSource(638)] {dataSource-1} inited
+12-13 16:58:15 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 16:58:15 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 16:58:15 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+12-13 16:58:15 [INFO][support.SQLErrorCodesFactory(126)] SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+12-13 18:04:55 [INFO][support.ClassPathXmlApplicationContext(510)] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32d2fa64: startup date [Thu Dec 13 18:04:55 CST 2018]; root of context hierarchy
+12-13 18:04:55 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [applicationContext.xml]
+12-13 18:04:56 [INFO][config.PropertyPlaceholderConfigurer(172)] Loading properties file from class path resource [jdbc.properties]
+12-13 18:04:57 [INFO][pool.DruidDataSource(638)] {dataSource-1} inited
+12-13 18:04:57 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:04:57 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:04:57 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+12-13 18:04:58 [INFO][support.SQLErrorCodesFactory(126)] SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+12-13 18:05:35 [INFO][support.ClassPathXmlApplicationContext(510)] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32d2fa64: startup date [Thu Dec 13 18:05:35 CST 2018]; root of context hierarchy
+12-13 18:05:35 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [applicationContext.xml]
+12-13 18:05:36 [INFO][config.PropertyPlaceholderConfigurer(172)] Loading properties file from class path resource [jdbc.properties]
+12-13 18:05:37 [INFO][pool.DruidDataSource(638)] {dataSource-1} inited
+12-13 18:05:37 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:05:37 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:06:40 [INFO][support.ClassPathXmlApplicationContext(510)] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32d2fa64: startup date [Thu Dec 13 18:06:40 CST 2018]; root of context hierarchy
+12-13 18:06:40 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [applicationContext.xml]
+12-13 18:06:40 [INFO][config.PropertyPlaceholderConfigurer(172)] Loading properties file from class path resource [jdbc.properties]
+12-13 18:06:41 [INFO][pool.DruidDataSource(638)] {dataSource-1} inited
+12-13 18:06:41 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:06:41 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:07:51 [INFO][support.ClassPathXmlApplicationContext(510)] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32d2fa64: startup date [Thu Dec 13 18:07:51 CST 2018]; root of context hierarchy
+12-13 18:07:52 [INFO][xml.XmlBeanDefinitionReader(317)] Loading XML bean definitions from class path resource [applicationContext.xml]
+12-13 18:07:52 [INFO][config.PropertyPlaceholderConfigurer(172)] Loading properties file from class path resource [jdbc.properties]
+12-13 18:07:53 [INFO][pool.DruidDataSource(638)] {dataSource-1} inited
+12-13 18:07:53 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
+12-13 18:07:53 [INFO][concurrent.ThreadPoolTaskScheduler(165)] Initializing ExecutorService  'taskScheduler'
